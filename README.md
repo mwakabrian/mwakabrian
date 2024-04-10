@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/abstract-analytical-background-analyze-data-260nw-1933959041.jpg)
 <h1 align="center">Hi 👋, I'm Mwaka Brian</h1>
 <h3 align="center">A passionate Data Analyst from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20image&imgurl=https%3A%2F%2Fi.gifer.com%2FGYny.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2FGYny&docid=D8oSlPs1dWSSDM&tbnid=kG4QA1S_COndOM&vet=12ahUKEwiqw4XK9reFAxVhVfEDHTAEDCcQM3oECG0QAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiqw4XK9reFAxVhVfEDHTAEDCcQM3oECG0QAA#imgrc=kG4QA1S_COndOM&imgdii=BwXJS1ZbagjzHM")
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?q=animated%20coding%20image&imgurl=https%3A%2F%2Fi.gifer.com%2FGYny.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2FGYny&docid=D8oSlPs1dWSSDM&tbnid=kG4QA1S_COndOM&vet=12ahUKEwiqw4XK9reFAxVhVfEDHTAEDCcQM3oECG0QAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiqw4XK9reFAxVhVfEDHTAEDCcQM3oECG0QAA#imgrc=kG4QA1S_COndOM&imgdii=BwXJS1ZbagjzHM"](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwakabrian&label=Profile%20views&color=0e75b6&style=flat" alt="mwakabrian" /> </p>
 
